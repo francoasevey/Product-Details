@@ -18,3 +18,10 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.single-product{
+    margin-top: 80px;
+}
+.small-img-row{
+    display: flex;
+    justify-content: space-around;
+}
