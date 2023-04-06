@@ -25,3 +25,17 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.col-2 img{
+    max-width: 100%;
+    cursor: pointer;
+}
+.small-img-col{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+.single-product .col-2 img{
+    padding: 0;
+}
+.single-product .col-2{
+    padding: 20px;
+}
