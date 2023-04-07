@@ -39,3 +39,7 @@ body{
 .single-product .col-2{
     padding: 20px;
 }
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
