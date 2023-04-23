@@ -1,5 +1,5 @@
 product detail HTML || CSS
 
-<img src="">
+<img src="fondo.gif">
 
-deploy: 
+deploy: https://product-details-murex.vercel.app/
